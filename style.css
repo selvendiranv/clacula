@@ -1,0 +1,25 @@
+form{
+    background-color: rgb(122, 205, 238);
+    width: 300px ;
+    margin:4px ;
+    border-radius: 4px 4px 4px 4px;
+    padding: 15px;
+    size: 200;
+    top: 100px;
+}
+form input{
+    height: 18%;
+    width: 100px;
+}
+body{
+    background-color: rgb(40, 29, 77);
+    padding-top: 125px;
+}
+form button
+{
+    background-color: rgb(84, 135, 229);
+    width: 100px;
+    border-radius: 10px 20px 10px 20px;
+    border: 5px black;
+    box-shadow: 10px 10px 1opx;
+}
